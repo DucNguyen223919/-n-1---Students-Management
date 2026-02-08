@@ -1,3 +1,5 @@
+Bước 0 : Mở folder trong Visual code Studio
+
 Bước 1 : Cài và bật XAMPP. Chạy Apache và MySQL
 
 Bước 2 : Mở trình duyền và vào http://localhost/phpmyadmin
